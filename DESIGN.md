@@ -3,7 +3,7 @@
 ## Purpose and users
 
 - Help researchers identify potentially problematic measurements in CSV files before analysis.
-- Report problems without modifying the original data.
+
 
 ## Expected behaviour
 
